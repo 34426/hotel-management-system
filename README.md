@@ -4,7 +4,11 @@
 
 基于spring，spingmvc, mybatis,  jQuery，bootstrap的酒店管理系统
 
-### 有问题，或者需要协助调试运行项目的, 可以+扣扣：2529519551，或者+ wx ：xzxj0206  注明项目，“git+项目名称” ，如：“git学生宿舍管理系统”
+
+### 有问题，或者需要协助调试运行项目的, 可以加QQ：2529519551，或者微信 ：xzxj0206 注明项目，“git+项目名称” ，如：“git学生宿舍管理系统”
+
+### 更多项目： https://github.com/34426?tab=repositories
+
 
 酒店客房管理系统
 
